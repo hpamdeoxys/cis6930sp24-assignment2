@@ -63,7 +63,7 @@ pipenv run python -m pytest
 - `test_check_emsstat.py`: Confirms EMSSTAT flagging functionality.
 
 ## ✉️ Contact
-For bugs, features, or questions, please [email here](mailto:support@example.com).
+For bugs, features, or questions, please [email here](mailto:harshakparmar12@gmail.com).
 
 ---
 
