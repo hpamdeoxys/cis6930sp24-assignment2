@@ -23,7 +23,7 @@ Execute the script with the following command:
 pipenv run python assignment2.py --urls files.csv
 ```
 
-Refer to "cis6930sp24-assignment0" for a video tutorial.
+
 
 ## 📋 Functions Overview
 - `extract_incidents`: Parses incidents from PDFs.
