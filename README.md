@@ -13,7 +13,7 @@ Install dependencies using `pipenv`:
 
 ```bash
 pip install pipenv
-pipenv install requests PyPDF2 beautifulsoup4 pandas geopy googlemaps
+pipenv install requests numpy pypdf bs4 pandas geopy googlemaps openmeteo-requests requests-cache retry-requests pytest  
 ```
 
 ## 🚀 How to Run
