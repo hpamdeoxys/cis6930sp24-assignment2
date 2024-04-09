@@ -54,7 +54,7 @@ pipenv run python -m pytest
 ## 📄 Test Files
 
 - `test_extract_incidents.py`: Tests PDF parsing logic.
-- `test_get_day_of_week.py`: Validates day extraction from dates.
+- `test_day_of_the_week.py`: Validates day extraction from dates.
 - `test_get_time_of_data.py`: Ensures correct hour is extracted from timestamps.
 - `test_rank_locations.py`: Checks ranking logic for locations.
 - `test_rank_nature.py`: Assesses ranking mechanism for the nature of incidents.
@@ -67,5 +67,5 @@ For bugs, features, or questions, please [email here](mailto:harshakparmar12@gma
 
 ---
 
-Thank you for using this dataset. For more information and updates, please check the project's [GitHub repository](https://github.com/your-repo).
+Thank you for using this dataset. For more information and updates, please check the project's [GitHub repository](https://github.com/hpamdeoxys/cis6930sp24-assignment2).
 
