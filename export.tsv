@@ -1,0 +1,698 @@
+day_of_week	time_of_data	weather_code	location_rank	side_of_town	incident_rank	nature	EMSSTAT
+6	0	3	52	N	18	MVA Non Injury	False
+6	0	3	52	NE	1	Traffic Stop	False
+6	0	3	52	SE	4	Disturbance/Domestic	False
+6	0	3	52	SE	1	Traffic Stop	False
+6	0	3	52	SE	1	Traffic Stop	False
+6	0	3	52	SE	2	Transfer/Interfacility	True
+6	0	3	52	NW	1	Traffic Stop	False
+6	1	3	52	S	48	Fire Smoke Investigation	False
+6	1	3	52	SW	1	Traffic Stop	False
+6	1	2	52	W	1	Traffic Stop	False
+6	1	3	52	SW	1	Traffic Stop	False
+6	1	3	52	S	1	Traffic Stop	False
+6	1	3	52	SW	1	Traffic Stop	False
+6	1	2	52	NW	1	Traffic Stop	False
+6	1	3	52	SE	7	Trespassing	False
+6	1	3	52	E	1	Traffic Stop	False
+6	1	3	14	S	4	Welfare Check	False
+6	1	3	14	W	18	Unconscious/Fainting	True
+6	1	3	14	W	3	Falls	True
+6	1	3	52	SE	1	Traffic Stop	False
+6	1	3	2	W	7	Trespassing	False
+6	1	3	52	S	1	Traffic Stop	False
+6	2	2	8	W	10	Alarm	False
+6	2	2	8	E	7	Trespassing	False
+6	2	2	52	SE	32	Alarm Holdup/Panic	False
+6	2	2	4	E	11	Sick Person	True
+6	2	2	4	E	11	Sick Person	True
+6	2	2	4	E	21	Public Intoxication	True
+6	2	2	4	E	21	Public Intoxication	False
+6	3	2	52	S	21	Public Assist	False
+6	3	2	52	S	11	Larceny	False
+6	3	2	4	SE	11	Sick Person	True
+6	3	2	4	SE	11	Sick Person	True
+6	3	3	52	NW	7	Trespassing	False
+6	3	2	52	E	10	Alarm	False
+6	4	1	2	W	2	Transfer/Interfacility	True
+6	4	1	52	SW	32	Chest Pain	True
+6	4	1	8	W	18	Burglary	False
+6	4	1	52	N	21	Harassment / Threats Report	False
+6	4	1	52	W	10	Alarm	False
+6	5	0	52	W	7	Trespassing	False
+6	5	0	14	SW	37	Allergies/Envenomations	True
+6	5	0	14	SW	37	Allergies/Envenomations	True
+6	5	0	52	SE	37	Noise Complaint	False
+6	5	0	14	N	18	MVA Non Injury	False
+6	5	0	14	NW	14	Supplement Report	False
+6	5	0	14	N	21	Public Assist	False
+6	6	0	52	SW	48	Found Item	False
+6	6	0	52	NW	21	Fraud	False
+6	7	0	8	NW	2	Transfer/Interfacility	True
+6	7	0	52	SE	18	Burglary	False
+6	7	0	52	SE	21	Public Assist	False
+6	7	0	52	N	4	Welfare Check	False
+6	7	0	52	SE	48	Assault	False
+6	7	0	14	E	18	Unconscious/Fainting	True
+6	7	0	14	E	18	Unconscious/Fainting	True
+6	7	0	52	NW	4	Welfare Check	False
+6	7	0	52	N	4	Welfare Check	False
+6	7	0	52	SW	21	Public Assist	False
+6	7	0	52	NW	1	Traffic Stop	False
+6	7	0	52	NE	11	Larceny	False
+6	7	0	52	S	16	Stand By EMS	True
+6	7	0	52	N	10	Alarm	False
+6	8	1	52	W	4	Welfare Check	False
+6	8	1	14	E	6	Contact a Subject	False
+6	8	1	52	SW	21	Fraud	False
+6	8	0	52	SE	48	Animal Livestock	False
+6	8	1	52	W	21	Follow Up	False
+6	8	1	52	SE	18	Burglary	False
+6	8	0	14	E	16	Animal Trapped	False
+6	8	1	52	NW	14	Supplement Report	False
+6	8	1	52	W	14	Supplement Report	False
+6	8	1	52	SW	6	Contact a Subject	False
+6	8	1	14	N	48	Extra Patrol	False
+6	8	0	52	E	21	Harassment / Threats Report	False
+6	8	0	14	E	16	Animal Trapped	False
+6	9	0	52	SW	21	Parking Problem	False
+6	9	0	1	NE	2	Transfer/Interfacility	True
+6	9	0	8	W	14	Supplement Report	False
+6	9	0	14	W	21	Runaway or Lost Child	False
+6	9	0	1	NE	2	Transfer/Interfacility	True
+6	9	0	52	NW	9	Suspicious	False
+6	9	0	52	NW	32	Motorist Assist	False
+6	9	0	52	NE	14	Supplement Report	False
+6	9	0	52	SE	6	Contact a Subject	False
+6	9	0	8	E	37	Open Door/Premises Check	False
+6	9	0	52	NW	7	Fire Alarm	False
+6	9	0	52	NW	10	Alarm	False
+6	9	0	8	E	7	Trespassing	False
+6	10	0	52	E	48	Vandalism	False
+6	10	0	14	SE	32	Chest Pain	True
+6	10	0	14	SE	32	Chest Pain	True
+6	10	0	4	E	21	Heart Problems/AICD	True
+6	10	0	4	E	21	Heart Problems/AICD	True
+6	10	0	52	E	21	Parking Problem	False
+6	10	0	14	SW	21	Headache	True
+6	10	0	14	SW	21	Headache	True
+6	10	0	14	W	14	Supplement Report	False
+6	10	0	14	E	37	Breathing Problems	True
+6	10	0	14	E	37	Breathing Problems	True
+6	10	0	52	SW	18	MVA Non Injury	False
+6	10	0	52	SW	16	Stand By EMS	True
+6	10	0	14	NE	21	Follow Up	False
+6	10	0	14	NE	37	Mutual Aid	False
+6	10	0	52	S	7	Fire Alarm	False
+6	10	0	52	W	9	Suspicious	False
+6	10	0	14	E	3	Falls	True
+6	10	0	14	E	3	Falls	True
+6	10	0	52	N	9	Suspicious	False
+6	10	0	52	NW	21	Fraud	False
+6	10	0	52	W	6	Contact a Subject	False
+6	10	0	52	NE	21	Animal at Large	False
+6	10	0	52	W	48	Animal Dead	False
+6	11	0	52	E	21	Animal Injured	False
+6	11	0	52	W	14	Check Area	False
+6	11	0	52	NW	11	Larceny	False
+6	11	0	52	E	1	Traffic Stop	False
+6	11	0	52	SE	4	Disturbance/Domestic	False
+6	11	0	52	SE	21	Animal at Large	False
+6	11	0	52	N	9	Suspicious	False
+6	11	0	52	SW	16	Animal Trapped	False
+6	11	0	1	NE	2	Transfer/Interfacility	True
+6	11	0	52	S	16	Stand By EMS	True
+6	11	0	52	N	6	Contact a Subject	False
+6	11	0	2	W	7	Fire Alarm	False
+6	12	0	52	NE	4	Disturbance/Domestic	False
+6	12	0	14	SW	3	Falls	True
+6	12	0	14	SW	3	Falls	True
+6	12	0	52	SE	21	Animal at Large	False
+6	12	0	52	S	16	Stand By EMS	True
+6	12	0	1	NE	2	Transfer/Interfacility	True
+6	12	0	52	N	16	Animal Trapped	False
+6	12	0	52	S	7	Fire Alarm	False
+6	12	0	14	N	21	Animal at Large	False
+6	12	0	14	SE	9	Suspicious	False
+6	12	0	52	E	32	Motorist Assist	False
+6	12	0	14	N	37	Fire Residential	True
+6	12	0	14	N	37	Fire Residential	True
+6	12	0	14	NW	21	Headache	True
+6	12	0	14	NW	21	Headache	True
+6	12	0	52	SE	14	Check Area	False
+6	12	0	14	W	4	Disturbance/Domestic	False
+6	12	0	14	W	4	Disturbance/Domestic	False
+6	12	0	14	N	3	Falls	True
+6	12	0	14	N	3	Falls	True
+6	13	0	8	E	7	Trespassing	False
+6	13	0	52	E	32	Animal Complaint	False
+6	13	0	52	SE	6	Contact a Subject	False
+6	13	0	52	W	11	Larceny	False
+6	13	0	52	SE	1	Traffic Stop	False
+6	13	0	8	NW	37	Overdose/Poisoning	True
+6	13	0	8	NW	37	Overdose/Poisoning	True
+6	13	0	14	S	48	Missing Person	False
+6	13	0	52	NW	4	Welfare Check	False
+6	13	0	52	E	4	Welfare Check	False
+6	13	0	52	NW	1	Traffic Stop	False
+6	13	0	14	NW	11	Larceny	False
+6	13	0	52	NW	1	Traffic Stop	False
+6	13	0	52	N	37	COP DDACTS	False
+6	13	0	52	S	18	Burglary	False
+6	13	0	14	NE	7	Fire Alarm	False
+6	13	0	1	NE	2	Transfer/Interfacility	True
+6	13	0	14	NE	7	Fire Alarm	False
+6	13	0	52	W	4	Welfare Check	False
+6	13	0	52	E	37	COP DDACTS	False
+6	13	0	14	SE	7	Trespassing	False
+6	13	0	52	S	21	Parking Problem	False
+6	13	0	14	NW	11	Larceny	False
+6	13	0	14	SE	37	Hemorrhage/Lacerations	True
+6	13	0	14	SE	37	Hemorrhage/Lacerations	True
+6	13	0	52	N	37	Mutual Aid	False
+6	13	0	52	E	6	Contact a Subject	False
+6	13	0	52	S	21	Public Intoxication	False
+6	14	0	52	E	1	Traffic Stop	False
+6	14	0	52	NW	14	Check Area	False
+6	14	1	52	SW	2	Transfer/Interfacility	True
+6	14	1	52	SE	1	Traffic Stop	False
+6	14	1	52	SE	48	COP Problem Solving	False
+6	14	1	52	SE	1	Traffic Stop	False
+6	14	0	14	NE	3	Falls	True
+6	14	0	14	NE	3	Falls	True
+6	14	1	52	S	6	Contact a Subject	False
+6	14	0	1	NE	2	Transfer/Interfacility	True
+6	14	0	52	N	7	Fire Alarm	False
+6	14	0	52	E	21	Animal Injured	False
+6	14	0	14	N	48	Fight	False
+6	14	0	52	NE	48	Animal Vicious	False
+6	14	1	8	SE	13	MVA With Injuries	True
+6	14	1	8	SE	13	MVA With Injuries	True
+6	14	1	8	SE	18	MVA Non Injury	True
+6	14	1	52	SW	21	Parking Problem	False
+6	14	0	14	NW	11	Larceny	False
+6	15	1	52	E	4	Welfare Check	False
+6	15	0	52	E	16	Animal Trapped	False
+6	15	1	52	SE	32	Animal Complaint	False
+6	15	3	52	N	4	Welfare Check	False
+6	15	1	2	W	2	Transfer/Interfacility	True
+6	15	1	52	W	9	Suspicious	False
+6	15	1	2	W	2	Transfer/Interfacility	True
+6	15	1	52	SE	21	Runaway or Lost Child	False
+6	15	1	52	S	21	Harassment / Threats Report	False
+6	15	1	52	S	32	Hit and Run	False
+6	15	3	8	E	4	Disturbance/Domestic	False
+6	15	3	52	N	21	Animal Injured	False
+6	15	1	14	SE	16	Stand By EMS	True
+6	15	1	52	SW	14	Check Area	False
+6	15	3	14	NE	21	Follow Up	False
+6	15	1	14	W	48	Stroke	True
+6	15	1	14	W	11	Sick Person	True
+6	16	0	14	SW	18	Unconscious/Fainting	True
+6	16	0	14	SW	18	Unconscious/Fainting	True
+6	16	0	52	N	9	Suspicious	False
+6	16	0	14	SE	10	Alarm	False
+6	16	0	52	E	16	Animal Trapped	False
+6	16	0	14	N	48	COP Relationships	False
+6	16	0	52	W	6	Contact a Subject	False
+6	16	0	52	W	1	Traffic Stop	False
+6	16	0	14	NE	6	Contact a Subject	False
+6	16	0	52	SE	18	MVA Non Injury	False
+6	16	0	14	NW	3	Falls	True
+6	16	0	14	NW	3	Falls	True
+6	16	0	52	NW	1	Traffic Stop	False
+6	16	0	8	E	7	Trespassing	False
+6	16	0	4	SE	3	Falls	True
+6	16	0	4	SE	3	Falls	True
+6	16	0	52	SW	37	Open Door/Premises Check	False
+6	16	0	4	E	3	Falls	True
+6	16	0	4	E	3	Falls	True
+6	17	0	52	NW	11	Larceny	False
+6	17	0	52	NE	4	Disturbance/Domestic	False
+6	17	0	52	SE	32	Animal Complaint	False
+6	17	0	52	E	1	Traffic Stop	False
+6	17	0	52	W	21	Fraud	False
+6	17	0	14	W	6	Contact a Subject	False
+6	17	0	52	E	32	Hit and Run	False
+6	17	0	14	W	14	Supplement Report	False
+6	17	0	14	SE	14	Check Area	False
+6	17	0	14	E	1	Traffic Stop	False
+6	17	0	52	N	7	Trespassing	False
+6	17	0	52	W	1	Traffic Stop	False
+6	17	0	52	NE	1	Traffic Stop	False
+6	17	0	1	NE	2	Transfer/Interfacility	True
+6	17	0	52	S	11	Larceny	False
+6	17	0	52	S	7	Trespassing	False
+6	17	0	52	W	6	Contact a Subject	False
+6	17	0	1	NE	48	Escort/Transport	False
+6	17	0	52	NE	21	Harassment / Threats Report	False
+6	17	0	52	NE	1	Traffic Stop	False
+6	18	0	52	W	1	Traffic Stop	False
+6	18	0	52	SE	4	Welfare Check	False
+6	18	0	1	NE	4	Welfare Check	False
+6	18	0	52	N	1	Traffic Stop	False
+6	18	0	52	E	1	Traffic Stop	False
+6	18	0	52	NW	32	Hit and Run	False
+6	18	0	52	W	10	Alarm	False
+6	18	0	52	NW	7	Fire Alarm	False
+6	18	0	14	E	11	Sick Person	True
+6	18	0	14	E	11	Sick Person	True
+6	18	0	52	E	32	Alarm Holdup/Panic	False
+6	18	0	52	NE	21	Runaway or Lost Child	False
+6	18	0	52	SW	1	Traffic Stop	False
+6	18	0	14	NW	37	Convulsion/Seizure	True
+6	18	0	14	NW	37	Convulsion/Seizure	True
+6	18	0	52	NW	9	Suspicious	False
+6	19	0	2	E	13	MVA With Injuries	True
+6	19	0	2	E	13	MVA With Injuries	True
+6	19	0	2	E	13	MVA With Injuries	True
+6	19	0	2	E	13	MVA With Injuries	True
+6	19	0	2	E	13	MVA With Injuries	True
+6	19	0	2	E	13	MVA With Injuries	True
+6	19	0	52	NW	21	Follow Up	False
+6	19	0	52	SW	4	Disturbance/Domestic	False
+6	19	0	52	S	7	Fire Alarm	False
+6	19	0	14	NE	32	Alarm Holdup/Panic	False
+6	19	0	1	NE	14	Check Area	False
+6	19	0	14	NE	21	Public Intoxication	False
+6	20	0	52	SE	4	Disturbance/Domestic	False
+6	20	0	52	S	37	Noise Complaint	False
+6	20	0	14	W	21	Heart Problems/AICD	True
+6	20	0	14	W	21	Heart Problems/AICD	True
+6	20	0	52	SE	7	Fire Alarm	False
+6	20	0	14	NW	4	Disturbance/Domestic	False
+6	20	0	1	NE	2	Transfer/Interfacility	True
+6	20	0	52	N	10	Alarm	False
+6	20	0	52	E	4	Welfare Check	False
+6	21	0	1	NE	2	Transfer/Interfacility	True
+6	21	0	14	SE	16	Stand By EMS	True
+6	21	0	52	NW	2	Transfer/Interfacility	True
+6	21	0	52	W	7	Trespassing	False
+6	21	0	4	W	11	Sick Person	True
+6	21	0	4	W	11	Sick Person	True
+6	21	0	52	S	7	Fire Alarm	False
+6	21	0	52	NE	4	Disturbance/Domestic	False
+6	21	0	1	NE	2	Transfer/Interfacility	True
+6	21	0	52	W	48	Road Rage	False
+6	22	0	52	SW	1	Traffic Stop	False
+6	22	0	52	SE	21	Animal Injured	False
+6	22	0	52	SW	1	Traffic Stop	False
+6	22	0	1	NE	2	Transfer/Interfacility	True
+6	22	0	52	S	10	Alarm	False
+6	22	0	52	NE	48	Drunk Driver	False
+6	22	0	4	W	4	Welfare Check	False
+6	22	0	52	SE	6	Contact a Subject	False
+6	22	0	52	W	9	Suspicious	False
+6	22	0	52	SE	1	Traffic Stop	False
+6	22	0	52	SE	21	Runaway or Lost Child	False
+6	22	0	52	E	1	Traffic Stop	False
+6	23	0	52	E	1	Traffic Stop	False
+6	23	0	52	SE	1	Traffic Stop	False
+6	23	0	52	SW	1	Traffic Stop	False
+6	23	0	52	W	14	Check Area	False
+6	23	0	52	W	1	Traffic Stop	False
+6	23	0	14	NW	4	Disturbance/Domestic	False
+6	23	0	52	SE	32	Motorist Assist	False
+6	23	0	52	W	4	Disturbance/Domestic	False
+6	23	0	52	SE	48	Loud Party	False
+6	23	0	8	S	37	Assault EMS Needed	True
+6	23	0	8	S	37	Assault EMS Needed	True
+6	23	0	8	S	4	Disturbance/Domestic	True
+6	23	0	52	W	7	Fire Alarm	False
+6	23	0	1	NE	9	Suspicious	False
+6	23	0	4	W	18	Burglary	False
+6	23	0	52	S	1	Traffic Stop	False
+6	23	0	52	NE	9	Suspicious	False
+6	23	0	52	S	10	Alarm	False
+6	23	0	2	W	2	Transfer/Interfacility	True
+7	0	0	26	E	7	Contact a Subject	False
+7	0	0	76	SW	9	Larceny	False
+7	0	0	8	S	6	Unconscious/Fainting	True
+7	0	0	8	S	31	Overdose/Poisoning	True
+7	0	0	8	S	16	Medical Call Pd Requested	True
+7	0	0	76	SE	1	Traffic Stop	False
+7	0	0	8	S	31	Foot Patrol	False
+7	0	0	76	W	4	Alarm	False
+7	1	0	4	NW	6	Unconscious/Fainting	True
+7	1	0	4	NW	6	Unconscious/Fainting	True
+7	1	0	8	S	31	Foot Patrol	False
+7	1	0	8	NW	53	Pick Up Partner	False
+7	1	0	26	E	2	Sick Person	True
+7	1	0	26	E	2	Sick Person	True
+7	1	0	26	E	31	Fire Vehicle	False
+7	1	0	26	E	53	Assist Police	False
+7	1	0	26	S	4	Alarm	False
+7	2	0	26	SE	4	Noise Complaint	False
+7	2	0	76	N	39	Fight	False
+7	2	0	76	W	3	Disturbance/Domestic	False
+7	2	0	76	N	53	Fire Electrical Check	False
+7	2	0	76	SE	4	Noise Complaint	False
+7	2	0	26	SE	4	Noise Complaint	False
+7	2	0	26	E	6	Unconscious/Fainting	True
+7	2	0	26	E	6	Unconscious/Fainting	True
+7	2	0	76	SE	4	Noise Complaint	False
+7	2	0	26	W	8	Suspicious	False
+7	3	0	26	W	16	Harassment / Threats Report	False
+7	3	0	4	E	3	Disturbance/Domestic	False
+7	3	0	76	E	39	Motorist Assist	False
+7	3	0	1	NE	10	Transfer/Interfacility	True
+7	3	0	76	W	3	Disturbance/Domestic	False
+7	3	0	76	W	10	Falls	True
+7	3	0	26	W	8	Suspicious	False
+7	4	0	76	SE	4	Noise Complaint	False
+7	4	0	76	W	7	Contact a Subject	False
+7	4	0	26	S	4	Alarm	False
+7	4	0	26	W	53	Fire Controlled Burn	False
+7	4	0	26	W	8	Suspicious	False
+7	4	0	76	SW	22	Trespassing	False
+7	4	0	26	W	16	Harassment / Threats Report	False
+7	5	0	76	N	8	Suspicious	False
+7	6	0	26	W	2	Sick Person	True
+7	6	0	26	W	2	Sick Person	True
+7	6	0	76	NW	39	Debris in Roadway	False
+7	6	0	26	N	2	Sick Person	True
+7	6	0	26	N	2	Sick Person	True
+7	6	0	8	NW	53	911 Call Nature Unknown	False
+7	7	0	26	E	2	Sick Person	True
+7	7	0	26	E	2	Sick Person	True
+7	7	0	76	S	16	Stand By EMS	True
+7	7	0	76	SW	4	Alarm	False
+7	7	0	76	NE	1	Traffic Stop	False
+7	7	0	76	E	1	Traffic Stop	False
+7	7	0	76	SE	15	Animal at Large	False
+7	7	0	76	E	7	Contact a Subject	False
+7	7	0	76	E	1	Traffic Stop	False
+7	7	0	8	NW	1	Traffic Stop	False
+7	7	0	26	E	7	Contact a Subject	False
+7	8	0	76	SE	31	Animal Dead	False
+7	8	0	8	E	1	Traffic Stop	False
+7	8	0	76	SE	22	Animal Trapped	False
+7	8	0	76	SE	1	Traffic Stop	False
+7	8	0	76	SE	22	Follow Up	False
+7	8	0	1	NW	1	Traffic Stop	False
+7	8	0	76	E	22	Follow Up	False
+7	8	0	76	E	4	Alarm	False
+7	8	0	76	N	16	MVA Non Injury	False
+7	8	0	1	NE	10	Transfer/Interfacility	True
+7	8	0	8	NW	1	Traffic Stop	False
+7	8	0	76	SE	22	Animal Trapped	False
+7	8	0	1	NW	1	Traffic Stop	False
+7	8	0	26	N	9	Larceny	False
+7	8	0	76	NW	9	Larceny	False
+7	8	0	76	E	1	Traffic Stop	False
+7	8	0	76	NW	1	Traffic Stop	False
+7	9	0	76	S	16	Stand By EMS	True
+7	9	0	76	SE	4	Alarm	False
+7	9	0	1	NW	1	Traffic Stop	False
+7	9	0	76	NW	1	Traffic Stop	False
+7	9	0	76	N	16	Check Area	False
+7	9	0	1	NW	1	Traffic Stop	False
+7	9	0	76	NE	1	Traffic Stop	False
+7	9	0	76	W	22	Stolen Vehicle	False
+7	9	0	76	NW	1	Traffic Stop	False
+7	9	0	76	NE	31	Mutual Aid	False
+7	9	0	76	SW	16	Stand By EMS	True
+7	9	0	76	E	7	Contact a Subject	False
+7	9	0	1	NW	1	Traffic Stop	False
+7	9	0	76	SW	4	Alarm	False
+7	9	0	76	SE	16	MVA Non Injury	False
+7	9	0	76	NW	10	Transfer/Interfacility	True
+7	9	0	26	SE	10	Traumatic Injury	True
+7	9	0	26	SE	10	Traumatic Injury	True
+7	9	0	8	NW	8	Suspicious	False
+7	9	0	8	NW	1	Traffic Stop	False
+7	9	0	76	SE	1	Traffic Stop	False
+7	9	0	8	NW	16	MVA With Injuries	True
+7	9	0	8	NW	16	MVA With Injuries	True
+7	9	0	8	NW	16	MVA With Injuries	True
+7	10	0	76	NW	4	Alarm	False
+7	10	0	26	N	22	Follow Up	False
+7	10	0	76	SE	22	Animal Trapped	False
+7	10	0	76	W	53	Supplement Report	False
+7	10	0	76	N	4	Alarm	False
+7	10	0	4	E	39	Indecent Exposure	False
+7	10	0	76	W	53	Vandalism	False
+7	10	0	76	W	16	Check Area	False
+7	10	0	76	NW	31	Animal Dead	False
+7	10	0	76	W	53	COP Relationships	False
+7	10	0	76	NW	1	Traffic Stop	False
+7	10	0	3	SE	39	Unknown Problem/Man Down	True
+7	10	0	3	SE	39	Unknown Problem/Man Down	True
+7	10	0	3	SE	6	Unconscious/Fainting	True
+7	10	0	8	W	10	Transfer/Interfacility	True
+7	10	0	8	SE	16	MVA With Injuries	True
+7	10	0	8	SE	16	MVA With Injuries	True
+7	10	0	8	SE	16	MVA Non Injury	True
+7	10	0	76	W	39	Fraud	False
+7	10	0	26	E	39	Indecent Exposure	False
+7	10	0	76	NW	39	Motorist Assist	False
+7	10	0	76	NE	4	Alarm	False
+7	11	0	76	W	13	Public Assist	False
+7	11	0	76	NW	1	Traffic Stop	False
+7	11	0	76	S	2	Sick Person	True
+7	11	0	26	W	16	Medical Call Pd Requested	True
+7	11	0	26	W	16	Medical Call Pd Requested	True
+7	11	0	26	W	39	Stroke	True
+7	11	0	26	W	39	Stroke	True
+7	11	0	4	E	39	Breathing Problems	True
+7	11	0	4	E	39	Breathing Problems	True
+7	11	0	1	NW	1	Traffic Stop	False
+7	11	0	76	NW	15	Animal at Large	False
+7	11	0	76	SE	3	Disturbance/Domestic	False
+7	11	0	1	NW	1	Traffic Stop	False
+7	11	0	76	NW	22	Trespassing	False
+7	11	0	76	E	3	Disturbance/Domestic	False
+7	12	0	26	SE	13	Public Assist	False
+7	12	0	1	NE	10	Transfer/Interfacility	True
+7	12	0	76	NW	22	Parking Problem	False
+7	12	0	8	NW	9	Larceny	False
+7	12	0	26	W	39	Open Door/Premises Check	False
+7	12	0	26	SE	39	Chest Pain	True
+7	12	0	26	SE	39	Chest Pain	True
+7	12	0	76	SE	3	Disturbance/Domestic	False
+7	12	0	76	SE	13	Public Assist	False
+7	12	0	26	S	22	Heart Problems/AICD	True
+7	12	0	26	S	22	Heart Problems/AICD	True
+7	12	0	76	E	22	Stolen Vehicle	False
+7	13	0	26	S	4	Noise Complaint	False
+7	13	0	26	NE	6	Unconscious/Fainting	True
+7	13	0	26	NE	6	Unconscious/Fainting	True
+7	13	0	76	N	16	Harassment / Threats Report	False
+7	13	0	4	NW	22	Convulsion/Seizure	True
+7	13	0	4	NW	22	Convulsion/Seizure	True
+7	13	0	76	SW	7	Contact a Subject	False
+7	13	0	76	E	3	Disturbance/Domestic	False
+7	13	0	76	SE	16	Harassment / Threats Report	False
+7	13	0	76	E	4	Alarm	False
+7	13	0	26	S	4	Noise Complaint	False
+7	13	0	26	S	10	Traumatic Injury	True
+7	13	0	26	S	10	Traumatic Injury	True
+7	13	0	76	W	4	Alarm	False
+7	13	0	76	SW	1	Traffic Stop	False
+7	14	0	76	E	3	Disturbance/Domestic	False
+7	14	0	8	E	10	Falls	True
+7	14	0	8	E	10	Falls	True
+7	14	0	26	SW	53	Allergies/Envenomations	True
+7	14	0	26	SW	2	Sick Person	True
+7	14	0	8	E	10	Falls	True
+7	14	0	76	SW	1	Traffic Stop	False
+7	14	0	76	NE	15	Animal at Large	False
+7	14	0	26	SE	22	Heart Problems/AICD	True
+7	14	0	26	SE	22	Heart Problems/AICD	True
+7	14	0	76	NW	53	Hit and Run	False
+7	14	0	76	NW	31	Animal Vicious	False
+7	14	0	76	SE	9	Larceny	False
+7	14	0	8	W	9	Larceny	False
+7	14	0	76	E	1	Traffic Stop	False
+7	14	0	76	N	1	Traffic Stop	False
+7	14	0	76	E	1	Traffic Stop	False
+7	14	0	26	E	7	Contact a Subject	False
+7	14	0	76	SE	22	Animal Trapped	False
+7	14	0	76	E	39	Fire Smoke Investigation	False
+7	14	0	76	NE	31	Mutual Aid	False
+7	14	0	76	S	3	Disturbance/Domestic	False
+7	14	0	76	NW	1	Traffic Stop	False
+7	14	0	76	NE	31	Drunk Driver	False
+7	14	0	4	E	3	Disturbance/Domestic	False
+7	14	0	76	N	22	Trespassing	False
+7	14	0	26	S	1	Traffic Stop	False
+7	14	0	76	E	53	Fire Grass	False
+7	14	0	26	N	14	Welfare Check	False
+7	14	0	76	W	31	Animal Dead	False
+7	14	0	76	SE	39	Animal Complaint	False
+7	14	0	76	NE	15	Animal at Large	False
+7	14	0	26	W	2	Sick Person	True
+7	14	0	26	W	2	Sick Person	True
+7	14	0	76	E	1	Traffic Stop	False
+7	14	0	76	NE	15	Animal at Large	False
+7	14	0	8	N	6	Unconscious/Fainting	True
+7	14	0	8	N	6	Unconscious/Fainting	True
+7	15	0	1	NE	10	Transfer/Interfacility	True
+7	15	0	8	W	10	Transfer/Interfacility	True
+7	15	0	8	N	6	Unconscious/Fainting	True
+7	15	0	8	N	6	Unconscious/Fainting	True
+7	15	0	8	N	53	Body Reported	True
+7	15	0	26	W	39	Open Door/Premises Check	False
+7	15	0	76	S	4	Noise Complaint	False
+7	15	0	8	N	2	Sick Person	True
+7	15	0	76	SE	31	Mutual Aid	False
+7	15	0	76	NE	3	Disturbance/Domestic	False
+7	15	0	76	S	22	Parking Problem	False
+7	15	0	76	NW	1	Traffic Stop	False
+7	15	0	76	W	4	Alarm	False
+7	15	0	76	NE	22	Parking Problem	False
+7	15	0	76	NW	1	Traffic Stop	False
+7	15	0	76	SE	53	Public Intoxication	False
+7	15	0	76	W	7	Contact a Subject	False
+7	15	0	76	NW	1	Traffic Stop	False
+7	15	0	76	NW	8	Suspicious	False
+7	15	0	76	S	4	Noise Complaint	False
+7	16	0	1	NE	10	Transfer/Interfacility	True
+7	16	0	8	NW	9	Larceny	False
+7	16	0	76	E	31	Animal Vicious	False
+7	16	0	76	SE	1	Traffic Stop	False
+7	16	0	26	N	2	Sick Person	True
+7	16	0	26	N	2	Sick Person	True
+7	16	0	76	E	1	Traffic Stop	False
+7	16	0	26	E	10	Traumatic Injury	True
+7	16	0	26	E	10	Traumatic Injury	True
+7	16	0	76	E	4	Alarm	False
+7	16	0	76	S	4	Noise Complaint	False
+7	16	0	76	NW	16	MVA Non Injury	False
+7	16	0	76	SE	7	Contact a Subject	False
+7	16	0	76	SW	14	Welfare Check	False
+7	16	0	26	N	3	Disturbance/Domestic	False
+7	16	0	76	N	53	Fire Alarm	False
+7	16	0	26	SE	4	Alarm	False
+7	16	0	76	E	39	Burglary	False
+7	16	0	8	W	10	Transfer/Interfacility	True
+7	16	0	4	E	9	Larceny	False
+7	16	0	76	W	39	Fraud	False
+7	16	0	76	SW	16	Check Area	False
+7	16	0	76	NE	9	Larceny	False
+7	17	0	76	W	4	Noise Complaint	False
+7	17	0	76	SE	53	Road Rage	False
+7	17	0	76	SW	8	Suspicious	False
+7	17	0	76	SE	15	Animal at Large	False
+7	17	0	76	SE	7	Contact a Subject	False
+7	17	0	76	SE	14	Welfare Check	False
+7	17	0	76	S	39	Animal Complaint	False
+7	17	0	3	SE	16	Stand By EMS	True
+7	17	0	8	NW	31	Aircraft Crash	True
+7	17	0	8	NW	31	Aircraft Crash	True
+7	17	0	8	NW	31	Aircraft Crash	True
+7	17	0	26	N	10	Falls	True
+7	17	0	26	N	10	Falls	True
+7	17	0	26	W	10	Traumatic Injury	True
+7	17	0	26	W	10	Traumatic Injury	True
+7	17	0	76	E	3	Disturbance/Domestic	False
+7	17	0	26	S	2	Sick Person	True
+7	17	0	26	S	2	Sick Person	True
+7	17	0	76	W	14	Welfare Check	False
+7	17	0	26	E	22	Back Pain	True
+7	17	0	26	E	22	Back Pain	True
+7	17	0	26	SW	22	Diabetic Problems	True
+7	17	0	26	SW	22	Diabetic Problems	True
+7	18	0	76	S	31	Drunk Driver	False
+7	18	0	76	W	1	Traffic Stop	False
+7	18	0	4	E	13	Public Assist	False
+7	18	0	26	NW	22	Convulsion/Seizure	True
+7	18	0	26	NW	22	Convulsion/Seizure	True
+7	18	0	4	E	13	Public Assist	False
+7	18	0	76	SW	2	Sick Person	True
+7	18	0	8	SE	13	Public Assist	False
+7	18	0	76	W	1	Traffic Stop	False
+7	18	0	76	E	14	Welfare Check	False
+7	18	0	76	SE	1	Traffic Stop	False
+7	18	0	26	NW	3	Disturbance/Domestic	False
+7	18	0	76	SW	39	Burglary	False
+7	18	0	76	E	22	Parking Problem	False
+7	18	0	8	SE	22	Back Pain	True
+7	18	0	8	SE	22	Back Pain	True
+7	18	0	76	NW	1	Traffic Stop	False
+7	18	0	8	NW	9	Larceny	False
+7	18	0	8	E	39	Fire Water Rescue	False
+7	18	0	8	E	39	Fire Water Rescue	True
+7	18	0	8	E	53	Drowning/Diving/Scuba Accident	True
+7	19	0	26	SE	4	Alarm	False
+7	19	0	76	E	4	Alarm	False
+7	19	0	76	E	53	Animal Livestock	False
+7	19	0	76	W	3	Disturbance/Domestic	False
+7	19	0	4	NW	10	Falls	True
+7	19	0	4	NW	10	Falls	True
+7	19	0	26	S	10	Traumatic Injury	True
+7	19	0	26	S	10	Traumatic Injury	True
+7	19	0	26	W	10	Falls	True
+7	19	0	26	W	10	Falls	True
+7	19	0	26	SE	6	Unconscious/Fainting	True
+7	19	0	26	SE	6	Unconscious/Fainting	True
+7	19	0	26	NW	7	Contact a Subject	False
+7	19	0	76	NW	53	Reckless Driving	False
+7	20	0	76	S	4	Noise Complaint	False
+7	20	0	76	NE	31	Animal Vicious	False
+7	20	0	76	SW	16	Harassment / Threats Report	False
+7	20	0	26	NE	2	Sick Person	True
+7	20	0	26	NE	2	Sick Person	True
+7	20	0	26	NE	16	Medical Call Pd Requested	True
+7	20	0	26	NE	16	Medical Call Pd Requested	True
+7	20	0	76	E	53	Fire Odor Investigation	False
+7	20	0	26	SE	13	Public Assist	False
+7	20	0	76	E	1	Traffic Stop	False
+7	20	0	76	E	39	Fire Smoke Investigation	False
+7	20	0	76	E	31	Drunk Driver	False
+7	20	0	26	S	22	Diabetic Problems	True
+7	20	0	26	S	22	Diabetic Problems	True
+7	20	0	76	NE	53	Fireworks	False
+7	20	0	76	SW	22	Follow Up	False
+7	20	0	1	NE	53	Escort/Transport	False
+7	20	0	76	N	53	Animal Injured	False
+7	20	0	76	W	16	Check Area	False
+7	20	0	76	E	13	Public Assist	False
+7	21	0	76	NW	9	Larceny	False
+7	21	0	76	W	4	Noise Complaint	False
+7	21	0	26	SE	4	Noise Complaint	False
+7	21	0	76	SE	8	Suspicious	False
+7	21	0	76	E	1	Traffic Stop	False
+7	21	0	26	SE	4	Noise Complaint	False
+7	21	0	4	NW	2	Sick Person	True
+7	21	0	4	NW	2	Sick Person	True
+7	21	0	76	NE	22	Stolen Vehicle	False
+7	21	0	8	W	22	Stolen Vehicle	False
+7	21	0	76	NE	3	Disturbance/Domestic	False
+7	21	0	76	SE	16	Check Area	False
+7	21	0	26	E	31	Fire Vehicle	False
+7	21	0	26	E	31	Fire Vehicle	False
+7	21	0	76	S	7	Contact a Subject	False
+7	21	0	8	W	7	Contact a Subject	False
+7	21	0	76	W	1	Traffic Stop	False
+7	21	0	8	S	14	Welfare Check	False
+7	21	0	8	S	6	Unconscious/Fainting	True
+7	21	0	8	S	6	Unconscious/Fainting	True
+7	21	0	76	SW	16	MVA Non Injury	False
+7	22	1	76	W	1	Traffic Stop	False
+7	22	1	26	S	39	Fight	False
+7	22	1	26	S	22	Trespassing	False
+7	22	1	76	SE	1	Traffic Stop	False
+7	22	1	26	SE	3	Disturbance/Domestic	False
+7	22	1	76	SW	4	Alarm	False
+7	22	1	26	S	39	Debris in Roadway	False
+7	22	1	3	SE	16	Stand By EMS	True
+7	22	1	8	S	31	Foot Patrol	False
+7	22	1	76	SE	1	Traffic Stop	False
+7	22	1	8	W	31	Overdose/Poisoning	True
+7	22	1	8	W	31	Overdose/Poisoning	True
+7	22	1	76	N	53	Barking Dog	False
+7	22	1	76	W	8	Suspicious	False
+7	22	1	26	SE	4	Noise Complaint	False
+7	22	1	8	W	14	Welfare Check	False
+7	22	0	8	E	8	Suspicious	False
+7	22	1	76	N	8	Suspicious	False
+7	22	0	8	E	8	Suspicious	False
+7	23	1	76	NE	53	Loud Party	False
+7	23	1	1	NE	10	Transfer/Interfacility	True
+7	23	1	26	SE	4	Noise Complaint	False
+7	23	1	76	W	8	Suspicious	False
+7	23	1	76	NW	3	Disturbance/Domestic	False
+7	23	1	26	SE	4	Noise Complaint	False
+7	23	1	76	SW	3	Disturbance/Domestic	False
+7	23	1	76	NW	7	Contact a Subject	False
