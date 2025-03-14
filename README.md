@@ -1,6 +1,6 @@
 ---
 
-# cis6930sp24 - Assignment 2 – Harshak Parmar
+# HelpingCops
 ![Norman PD Dataset Visualization](AFBEA59B-6D0A-464E-BF34-7321C93B807B.webp "Norman PD Dataset Visualization")
 
 ## 📜 Assignment Description
