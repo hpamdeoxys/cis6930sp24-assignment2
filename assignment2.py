@@ -26,7 +26,7 @@ def main(url):
     df = rank_nature(df)
 
     # Initialize the Google Maps and OpenMeteo clients
-    gmaps = googlemaps.Client(key='AIzaSyCGje5tE1-7V1A3f3M3VP_tQ6vINmecbAs')
+    gmaps = googlemaps.Client(key='')
     cache_session = requests_cache.CachedSession('.cache', expire_after=-1)
     retry_session = retry(cache_session, retries=5, backoff_factor=0.2)
     openmeteo_client = openmeteo_requests.Client(session=retry_session)
